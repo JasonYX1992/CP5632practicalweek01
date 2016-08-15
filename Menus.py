@@ -1,7 +1,7 @@
-name=input('Enter name:')
+name = input('Enter name:')
 print('menu')
 
-choice=input('Enter choice Q or H or G:')
+choice = input('Enter choice Q or H or G:')
 
 while choice != 'Q':
     if choice == 'H':
@@ -12,6 +12,6 @@ while choice != 'Q':
         print('invalid message')
         print('menu')
 
-    choice=input('Enter choice Q or H or G:')
+    choice = input('Enter choice Q or H or G:')
 
 print('finished')

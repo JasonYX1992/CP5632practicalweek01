@@ -1,2 +1,2 @@
-__author__='Jason'
+__author__ = 'Jason'
 print('hello world')

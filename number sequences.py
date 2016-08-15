@@ -1,13 +1,13 @@
-x=int(input('enter number:'))
+x = int(input('enter number:'))
 
-if x%2==0:
+if x % 2 == 0:
     print('even number')
 else:
     print('odd number')
 
-y=int(input('enter number:'))
+y = int(input('enter number:'))
 
-if y%2==0:
+if y % 2 == 0:
     print('even number')
 else:
     print('odd number')

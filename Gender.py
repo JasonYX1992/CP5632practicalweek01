@@ -1,5 +1,6 @@
-text=input ('Gender(M/F):')
-if text =='M':
+text = input('Gender(M/F):')
+
+if text == 'M':
     print('Male')
 else:
     print('Female')
